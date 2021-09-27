@@ -43,7 +43,7 @@ public class ContatUs extends ParentPage{
     public  void clickOnFileUpload(){
         clickOnElement(fileupload);
     }
-    private static final File FILE = new File("C:\\Users\\Админ\\Downloads\\wallpaperflare.com_wallpaper (2).jpg");
+    private static final File FILE = new File("C:\\Users\\Админ\\OneDrive\\Desktop\\Project_Exam\\src\\wallpaperflare.com_wallpaper");
     public void uploadFile()
     {WebElement uploadFile = webDriver.findElement(By.id("fileUpload")
         );
@@ -55,5 +55,8 @@ public class ContatUs extends ParentPage{
     }
     public  void clickOnSendInformation(){
         clickOnElement(submit);
+    }
+    public boolean wasMessageSent(){
+       return isElementPresent(webDriver.findElement(By.xpath("/html/body/div/div[2]/div/div[3]/div/p")));
     }
 }

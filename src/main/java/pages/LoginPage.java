@@ -58,6 +58,8 @@ public class LoginPage extends ParentPage {
     private WebElement retrivePassword;
     @FindBy(xpath ="//p[@class='alert alert-success']")
     private WebElement popupCheck;
+    @FindBy(xpath ="//*[@id=\"center_column\"]/div/div/ol/li/text()")
+    private WebElement userName;
 
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
@@ -150,6 +152,7 @@ public class LoginPage extends ParentPage {
         fillinLoginFormandSubmit(TestData.VALID_EMAIL, TestData.VALID_PASSWORD);
         return new LoginPage(webDriver);
     }
+
     public LoginPage selectValueinDDSelectValue(String value) {
         selectValueInDD(State, value);
         return this;
@@ -167,6 +170,9 @@ public LoginPage clickonForgotPasswordButton(){
     }
     public boolean isPopForSuccessPresent(){
          return isElementPresent(popupCheck);
+    }
+    public boolean isUserPresent(){
+        return isElementPresent(userName);
     }
 
 }

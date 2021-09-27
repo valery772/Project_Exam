@@ -19,12 +19,14 @@ public class DropDownMenu extends  ParentPage {
     }
 
     public void selectMenu(){
-        WebElement titleC = webDriver.findElement(By.xpath("/html/body/div/div[1]/header/div[3]/div/div/div[6]/ul/li[1]/a"));
+        WebElement titleC = webDriver.findElement(By.xpath("//*[@id=\"block_top_menu\"]/ul/li[1]/a"));
         Actions actions = new Actions(webDriver);
         actions.moveToElement(titleC);
         actions.clickAndHold().perform();
         clickOnElement(webDriver.findElement(By.xpath("//*[@id=\"block_top_menu\"]/ul/li[1]/ul/li[1]/ul/li[1]/a")));
-
+    }
+    public boolean isSelectedClotheVisible(){
+       return isElementPresent(webDriver.findElement(By.xpath("//*[@id=\"center_column\"]/ul/li/div/div[1]/div/a[1]/img")));
 
     }
 }

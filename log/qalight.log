@@ -992,16 +992,16 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-02-09 10:10:35   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-02-09 10:10:42   INFO [pages.LoginPage] :  Element was click
 2021-02-09 10:10:42   INFO [pages.LoginPage] :  Element present 
-2021-02-09 10:21:42   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
+2021-02-09 10:21:42   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
 2021-02-09 10:21:53   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 10:22:04   INFO [pages.LoginPage] :  Element was click
 2021-02-09 10:22:04   INFO [pages.LoginPage] : 'valerinskaya997190@gmail.com' was inputted in element 
 2021-02-09 10:22:04   INFO [pages.LoginPage] :  Element was click
 2021-02-09 10:22:35  ERROR [pages.LoginPage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of First Name (tried for 15 second(s) with 500 milliseconds interval)
-2021-02-09 10:22:35   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was ended ---------
-2021-02-09 10:23:38   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
+2021-02-09 10:22:35   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was ended ---------
+2021-02-09 10:23:38   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
 2021-02-09 10:23:42   INFO [pages.LoginPage] : Login page was opened
-2021-02-09 10:29:24   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
+2021-02-09 10:29:24   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
 2021-02-09 10:29:35   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 10:29:46   INFO [pages.LoginPage] :  Element was click
 2021-02-09 10:29:47   INFO [pages.LoginPage] : 'valerinskaya997190990@gmail.com' was inputted in element 
@@ -1019,7 +1019,7 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-02-09 10:29:56   INFO [pages.LoginPage] : '2' was selected in DropDown 
 2021-02-09 10:30:07   INFO [pages.LoginPage] :  Element was click
 2021-02-09 10:30:07   INFO [pages.HomePage] :  Element present 
-2021-02-09 10:30:08   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was ended ---------
+2021-02-09 10:30:08   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was ended ---------
 2021-02-09 10:36:11   INFO [ForgotPassword] : -----forgotyourpassword was started ---------
 2021-02-09 10:36:21   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 10:36:33   INFO [pages.LoginPage] :  Element was click
@@ -1052,56 +1052,56 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-02-09 10:58:01   INFO [pages.LoginPage] :  Element was click
 2021-02-09 10:58:01   INFO [pages.LoginPage] :  Element present 
 2021-02-09 10:58:02   INFO [ForgotPassword] : -----forgotyourpassword was ended ---------
-2021-02-09 11:28:45   INFO [other.UploadFile] : -----UploadTest was started ---------
-2021-02-09 11:28:48   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-02-09 11:30:03   INFO [other.UploadFile] : -----UploadTest was started ---------
-2021-02-09 11:30:06   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-02-09 11:31:05   INFO [other.UploadFile] : -----UploadTest was started ---------
-2021-02-09 11:31:07   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-02-09 11:34:23   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 11:28:45   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-02-09 11:28:48   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-02-09 11:30:03   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-02-09 11:30:06   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-02-09 11:31:05   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-02-09 11:31:07   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-02-09 11:34:23   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 11:34:35   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 11:34:42   INFO [pages.LoginPage] :  Element was click
-2021-02-09 11:34:43   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-02-09 11:59:29   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 11:34:43   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-02-09 11:59:29   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 11:59:42   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 11:59:49   INFO [pages.LoginPage] :  Element was click
-2021-02-09 11:59:49   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-02-09 12:07:04   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 11:59:49   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-02-09 12:07:04   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:07:17   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:07:25   INFO [pages.ContatUs] :  Element was click
 2021-02-09 12:07:25   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:07:26   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-02-09 12:22:46   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:07:26   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-02-09 12:22:46   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:22:59   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:23:07   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:33:44   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:33:44   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:33:58   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:34:04   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:36:39   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:36:39   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:36:51   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:36:52   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:37:01   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:37:01   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:37:13   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:37:21   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:39:09   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:39:09   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:39:21   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:39:28   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:45:20   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:45:20   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:45:31   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:45:38   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:50:02   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:50:02   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:50:15   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:50:23   INFO [pages.ContatUs] :  Element was click
-2021-02-09 12:52:23   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 12:52:23   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 12:52:35   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 12:52:43   INFO [pages.ContatUs] :  Element was click
-2021-02-09 22:17:33   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 22:17:33   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 22:17:40   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 22:17:43   INFO [pages.ContatUs] :  Element was click
 2021-02-09 22:17:43   INFO [pages.ContatUs] : '1' was selected in DropDown 
 2021-02-09 22:17:43   INFO [pages.ContatUs] : 'lera@gmail.com' was inputted in element 
 2021-02-09 22:18:07  ERROR [pages.ContatUs] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Order Reference (tried for 15 second(s) with 500 milliseconds interval)
-2021-02-09 22:19:16   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-02-09 22:19:16   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-02-09 22:19:23   INFO [pages.LoginPage] : Login page was opened
 2021-02-09 22:19:25   INFO [pages.ContatUs] :  Element was click
 2021-02-09 22:19:26   INFO [pages.ContatUs] : '1' was selected in DropDown 
@@ -1110,48 +1110,48 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-02-09 22:19:26   INFO [pages.ContatUs] :  Element was click
 2021-02-09 22:19:27   INFO [pages.ContatUs] : 'test' was inputted in element 
 2021-02-09 22:19:30   INFO [pages.ContatUs] :  Element was click
-2021-03-09 00:05:02   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:05:02   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:05:08   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:07:24   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:07:24   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:07:32   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:17:14   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:17:14   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:17:21   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:19:28   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:19:28   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:19:34   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:25:53   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:25:53   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:25:58   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:28:40   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:28:40   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:28:46   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:36:24   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:36:24   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:36:30   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:48:58   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:48:58   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:49:05   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:51:43   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:51:43   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:51:49   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:54:15   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:54:15   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:54:22   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:55:44   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:55:44   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:55:51   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 00:57:54   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 00:57:54   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 00:58:02   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 01:08:53   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:08:53   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:09:00   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 01:10:48   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:10:48   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:10:55   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 01:28:02   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:28:02   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:28:09   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 01:35:39   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:35:39   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:35:46   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 01:38:41   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:38:41   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:38:48   INFO [pages.LoginPage] : Login page was opened
-2021-03-09 01:40:25   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:40:25   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:40:31   INFO [pages.LoginPage] : Login page was opened
 2021-03-09 01:40:34   INFO [pages.DropDownMenu] :  Element was click
-2021-03-09 01:41:06   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-03-09 01:41:06   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-03-09 01:41:14   INFO [pages.LoginPage] : Login page was opened
 2021-03-09 01:41:16   INFO [pages.DropDownMenu] :  Element was click
-2021-03-09 01:41:16   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
-2021-05-09 21:50:55   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-03-09 01:41:16   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
+2021-05-09 21:50:55   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 21:51:03   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 21:51:05   INFO [pages.LoginPage] :  Element was click
 2021-05-09 21:51:06   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1160,32 +1160,32 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 21:51:09   INFO [pages.HomePage] :  Element was click
 2021-05-09 21:51:12   INFO [pages.DropDownMenu] :  Element was click
 2021-05-09 21:51:42  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Click On Add To Cart (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 21:51:43   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 21:57:34   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 21:51:43   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 21:57:34   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 21:57:40   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 21:57:42   INFO [pages.LoginPage] :  Element was click
 2021-05-09 21:57:42   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 21:57:42   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 21:57:43   INFO [pages.LoginPage] :  Element was click
 2021-05-09 21:57:45   INFO [pages.HomePage] :  Element was click
-2021-05-09 21:57:46   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 21:59:43   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 21:57:46   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 21:59:43   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 21:59:48   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 21:59:51   INFO [pages.LoginPage] :  Element was click
 2021-05-09 21:59:51   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 21:59:51   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 21:59:53   INFO [pages.LoginPage] :  Element was click
 2021-05-09 21:59:54   INFO [pages.HomePage] :  Element was click
-2021-05-09 21:59:55   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:01:37   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 21:59:55   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:01:37   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:01:44   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:01:46   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:01:46   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 22:01:46   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:01:47   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:01:49   INFO [pages.HomePage] :  Element was click
-2021-05-09 22:01:50   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:03:41   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:01:50   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:03:41   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:03:48   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:03:50   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:03:50   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1197,8 +1197,8 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:03:57   INFO [pages.HomePage] :  Element was click
 2021-05-09 22:03:58   INFO [pages.HomePage] :  Element was click
 2021-05-09 22:04:29  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Agree Check Box (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:04:29   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:05:09   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:04:29   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:05:09   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:05:15   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:05:18   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:05:18   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1214,7 +1214,7 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:05:33   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 22:05:33   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:05:34   INFO [pages.LoginPage] :  Element was click
-2021-05-09 22:07:59   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:07:59   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:08:05   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:08:07   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:08:08   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1229,8 +1229,8 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:08:18   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:08:20   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:08:50  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:08:50   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:09:24   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:08:50   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:09:24   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:09:32   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:09:34   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:09:34   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1245,8 +1245,8 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:09:43   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:09:45   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:10:13  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:10:13   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:10:17   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:10:13   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:10:17   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:10:23   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:10:24   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:10:25   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1261,8 +1261,8 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:10:36   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:10:37   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:10:52  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:10:53   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:12:06   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:10:53   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:12:06   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:12:12   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:12:14   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:12:14   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1277,8 +1277,8 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:12:23   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:12:25   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:12:55  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:12:55   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:15:57   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:12:55   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:15:57   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:16:03   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:16:05   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:16:05   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1293,9 +1293,9 @@ Session ID: fedafb0ac69b0851d2eabd9907aadd81
 2021-05-09 22:16:13   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:16:14   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:16:45  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:16:45   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:20:05   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
-2021-05-09 22:22:41   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:16:45   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:20:05   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
+2021-05-09 22:22:41   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:22:47   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:22:49   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:22:49   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1315,8 +1315,8 @@ System info: host: 'LAPTOP-TJ23JI33', ip: '192.168.31.183', os.name: 'Windows 10
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\7272~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55286}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
 Session ID: 0f76e781fae3dfd8f110307578371b10
-2021-05-09 22:23:08   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:26:26   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:23:08   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:26:26   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:26:32   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:26:35   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:26:35   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1331,8 +1331,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:26:45   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:26:48   INFO [pages.HomePage] :  Element was click
 2021-05-09 22:27:18  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:27:18   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:27:53   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:27:18   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:27:53   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:27:59   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:28:03   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:28:03   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1346,8 +1346,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:28:11   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 22:28:12   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:28:33  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Agree Check Box (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:28:33   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:28:39   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:28:33   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:28:39   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:28:45   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:28:47   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:28:48   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1361,8 +1361,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:28:58   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 22:28:58   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:29:29  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Agree Check Box (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:29:30   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:32:18   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:29:30   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:32:18   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:32:23   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:32:25   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:32:25   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1376,8 +1376,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:32:34   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 22:32:34   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:33:06  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Agree Check Box (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:33:06   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:36:43   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:33:06   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:36:43   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:36:49   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:36:52   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:36:52   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1389,8 +1389,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:37:00   INFO [pages.HomePage] :  Element was click
 2021-05-09 22:37:02   INFO [pages.HomePage] :  Element was click
 2021-05-09 22:37:12  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:37:12   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:41:18   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:37:12   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:41:18   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:41:24   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:41:27   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:41:27   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1407,8 +1407,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:41:39   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:41:41   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:42:11  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:42:11   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:48:33   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:42:11   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:48:33   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:48:39   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:48:41   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:48:41   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1425,8 +1425,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:49:02   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:49:03   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:49:34  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:49:34   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:54:16   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:49:34   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:54:16   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:54:22   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:54:23   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:54:23   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1441,8 +1441,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:54:33   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:54:34   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:55:04  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Adress (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:55:04   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:55:10   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:55:04   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:55:10   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:55:16   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:55:18   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:55:19   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1457,8 +1457,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:55:28   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:55:30   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:56:01  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Adress (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:56:01   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:56:22   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:56:01   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:56:22   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:56:28   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:56:30   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:56:30   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1473,8 +1473,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:56:40   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:56:42   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:57:13  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Adress (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:57:13   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:57:35   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:57:13   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:57:35   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 22:57:41   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 22:57:42   INFO [pages.LoginPage] :  Element was click
 2021-05-09 22:57:43   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1488,8 +1488,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 22:57:53   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 22:57:53   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 22:58:25  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Adress (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 22:58:25   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 22:59:55   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 22:58:25   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 22:59:55   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:00:01   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:00:03   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:00:03   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1503,8 +1503,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 23:00:11   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 23:00:11   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 23:00:43  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Adress (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:00:44   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:02:22   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:00:44   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:02:22   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:02:28   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:02:30   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:02:30   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1517,8 +1517,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 23:02:38   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:02:38   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 23:02:38   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
-2021-05-09 23:02:49   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:03:38   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:02:49   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:03:38   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:03:44   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:03:45   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:03:46   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1533,8 +1533,8 @@ Session ID: 0f76e781fae3dfd8f110307578371b10
 2021-05-09 23:03:56   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 23:03:57   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:04:28  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:04:29   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:05:07   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:04:29   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:05:07   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:05:13   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:05:14   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:05:14   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1554,8 +1554,8 @@ System info: host: 'LAPTOP-TJ23JI33', ip: '192.168.31.183', os.name: 'Windows 10
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\7272~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
 Session ID: f719c51425937009ee388cafc0a6357f
-2021-05-09 23:05:32   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:06:51   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:05:32   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:06:51   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:06:58   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:06:59   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:06:59   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1575,8 +1575,8 @@ System info: host: 'LAPTOP-TJ23JI33', ip: '192.168.31.183', os.name: 'Windows 10
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\7272~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53286}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
 Session ID: 1bac8ede189814c0b0e9f77b3006bf90
-2021-05-09 23:07:16   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:11:11   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:07:16   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:11:11   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:11:18   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:11:19   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:11:20   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1591,9 +1591,9 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:11:29   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 23:11:31   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:12:02  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:12:03   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:12:44   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
-2021-05-09 23:14:10   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:12:03   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:12:44   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
+2021-05-09 23:14:10   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:14:16   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:14:17   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:14:18   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1609,8 +1609,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:14:29   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:14:31   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:15:01  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:15:01   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:16:15   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:15:01   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:16:15   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:16:20   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:16:22   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:16:23   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1626,8 +1626,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:16:32   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:16:34   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:17:05  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:17:05   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:19:58   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:17:05   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:19:58   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:20:04   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:20:05   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:20:06   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1643,8 +1643,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:20:15   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:20:17   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:20:48  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:20:48   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:23:00   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:20:48   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:23:00   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:23:05   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:23:08   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:23:08   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1661,8 +1661,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:23:20   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:23:21   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:23:52  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Confirm Order (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:23:52   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:24:26   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:23:52   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:24:26   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:24:32   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:24:33   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:24:34   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1680,8 +1680,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:24:47   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:24:49   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:25:19   INFO [pages.HomePage] : Element is not present
-2021-05-09 23:25:19   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:27:15   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:25:19   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:27:15   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:27:21   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:27:23   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:27:23   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1700,8 +1700,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:27:38   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:27:39   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:28:09  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:28:09   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:28:56   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:28:09   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:28:56   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:29:01   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:29:03   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:29:03   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1720,8 +1720,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:29:18   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:29:18   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:29:49  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:29:49   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:37:06   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:29:49   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:37:06   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:37:13   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:37:14   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:37:14   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1735,8 +1735,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:37:27   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 23:37:27   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 23:37:29   INFO [pages.LoginPage] :  Element was click
-2021-05-09 23:37:31   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:37:52   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:37:31   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:37:52   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:37:58   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:38:00   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:38:00   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1754,7 +1754,7 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:38:16   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:38:18   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:38:18   INFO [pages.HomePage] :  Element present 
-2021-05-09 23:38:42   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:38:42   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:38:48   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:38:51   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:38:51   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1773,8 +1773,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:39:08   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:39:09   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:39:39  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Pay By Bank Wire (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:39:39   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:40:11   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:39:39   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:40:11   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:40:17   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:40:19   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:40:19   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1788,8 +1788,8 @@ Session ID: 1bac8ede189814c0b0e9f77b3006bf90
 2021-05-09 23:40:31   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 23:40:31   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 23:40:33   INFO [pages.LoginPage] :  Element was click
-2021-05-09 23:40:34   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:40:48   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:40:34   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:40:48   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:40:51  ERROR [pages.LoginPage] : Сannot work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
 from disconnected: received Inspector.detached event
   (Session info: chrome=93.0.4577.63)
@@ -1798,8 +1798,8 @@ System info: host: 'LAPTOP-TJ23JI33', ip: '192.168.31.183', os.name: 'Windows 10
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\7272~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
 Session ID: 0706e56319865a6de5645f486c04cc34
-2021-05-09 23:40:52   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:41:54   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:40:52   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:41:54   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:41:59   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:42:01   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:42:01   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1818,8 +1818,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:42:15   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:42:15   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:42:46  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:42:46   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:43:17   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:42:46   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:43:17   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:43:23   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:43:25   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:43:25   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1838,8 +1838,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:43:41   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:43:41   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:44:11  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:44:12   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:46:17   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:44:12   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:46:17   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:46:23   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:46:25   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:46:25   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1858,8 +1858,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:46:41   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:46:41   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:47:12  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:47:13   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:47:21   INFO [other.UploadFile] : -----UploadTest was started ---------
+2021-05-09 23:47:13   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:47:21   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
 2021-05-09 23:47:28   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:47:30   INFO [pages.ContatUs] :  Element was click
 2021-05-09 23:47:30   INFO [pages.ContatUs] : '1' was selected in DropDown 
@@ -1868,9 +1868,9 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:47:31   INFO [pages.ContatUs] :  Element was click
 2021-05-09 23:47:31   INFO [pages.ContatUs] : 'test' was inputted in element 
 2021-05-09 23:47:32   INFO [pages.ContatUs] :  Element was click
-2021-05-09 23:47:33   INFO [other.UploadFile] : -----UploadTest was ended ---------
-2021-05-09 23:49:44   INFO [other.UploadFile] : -----UploadTest was started ---------
-2021-05-09 23:49:50   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:47:33   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-05-09 23:49:44   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-05-09 23:49:50   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:49:57   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:49:59   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:49:59   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1889,8 +1889,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:50:14   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:50:14   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:50:45  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:50:45   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:55:26   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:50:45   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:55:26   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:55:32   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:55:33   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:55:34   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1909,8 +1909,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:55:48   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:55:48   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:56:18  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Pay By Bank Wire (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:56:18   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:56:54   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:56:18   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:56:54   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:56:59   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:57:01   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:57:01   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1929,8 +1929,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:57:17   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:57:17   INFO [pages.HomePage] :  Element present 
 2021-05-09 23:57:47  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Confirm Order (tried for 5 second(s) with 500 milliseconds interval)
-2021-05-09 23:57:47   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-05-09 23:58:13   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:57:47   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-05-09 23:58:13   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:58:19   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:58:21   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:58:21   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1944,7 +1944,7 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:58:29   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-05-09 23:58:30   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-05-09 23:58:31   INFO [pages.LoginPage] :  Element was click
-2021-05-09 23:59:03   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-05-09 23:59:03   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-05-09 23:59:12   INFO [pages.LoginPage] : Login page was opened
 2021-05-09 23:59:14   INFO [pages.LoginPage] :  Element was click
 2021-05-09 23:59:14   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1963,8 +1963,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-05-09 23:59:30   INFO [pages.HomePage] :  Element was click
 2021-05-09 23:59:30   INFO [pages.HomePage] :  Element present 
 2021-06-09 00:00:00  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Confirm Order (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:00:01   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:04:14   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:00:01   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:04:14   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:04:20   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:04:21   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:04:22   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1979,8 +1979,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:04:30   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:04:32   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:05:03  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Addresss (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:05:03   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:05:29   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:05:03   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:05:29   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:05:35   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:05:36   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:05:36   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -1995,8 +1995,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:05:45   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:05:46   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:06:18  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Addresss (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:06:18   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:08:05   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:06:18   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:08:05   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:08:10   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:08:13   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:08:13   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -2011,8 +2011,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:08:21   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:08:23   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:08:54  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Addresss (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:08:54   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:09:08   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:08:54   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:09:08   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:09:14   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:09:15   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:09:16   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -2027,8 +2027,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:09:25   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:09:27   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:09:59  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Addresss (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:09:59   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:10:26   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:09:59   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:10:26   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:10:32   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:10:34   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:10:34   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -2043,8 +2043,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:10:43   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:10:45   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:11:16  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Addresss (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:11:17   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:13:15   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:11:17   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:13:15   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:13:21   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:13:23   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:13:23   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -2055,7 +2055,7 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:13:29   INFO [pages.HomePage] : 'Click On Add To Cart' Element was click
 2021-06-09 00:13:32   INFO [pages.HomePage] :  Element was click
 2021-06-09 00:13:34   INFO [pages.HomePage] :  Element was click
-2021-06-09 00:13:59   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:13:59   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:14:06   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:14:10   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:14:10   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -2070,8 +2070,8 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:14:19   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:14:21   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:14:52  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Addresss (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:14:52   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
-2021-06-09 00:16:27   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was started ---------
+2021-06-09 00:14:52   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:16:27   INFO [makeAnOrder.makeAnOrder] : -----purchases was started ---------
 2021-06-09 00:16:32   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:16:34   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:16:34   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
@@ -2089,31 +2089,31 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:16:48   INFO [pages.HomePage] :  Element was click
 2021-06-09 00:16:50   INFO [pages.HomePage] :  Element was click
 2021-06-09 00:17:21  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Check Out Shipping (tried for 5 second(s) with 500 milliseconds interval)
-2021-06-09 00:17:21   INFO [MakeAnOrder.MakeAnOrder] : -----purchases was ended ---------
+2021-06-09 00:17:21   INFO [makeAnOrder.makeAnOrder] : -----purchases was ended ---------
 2021-06-09 00:30:15   INFO [ForgotPassword] : -----forgotyourpassword was started ---------
 2021-06-09 00:33:29   INFO [ForgotPassword] : -----forgotyourpassword was started ---------
-2021-06-09 00:35:25   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-06-09 00:35:25   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
 2021-06-09 00:35:31   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:35:32   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:35:32   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-06-09 00:35:33   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:35:34   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:35:41   INFO [pages.HomePage] : Element is not present
-2021-06-09 00:35:41   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
-2021-06-09 00:36:51   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-06-09 00:35:41   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-06-09 00:36:51   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
 2021-06-09 00:36:57   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:36:59   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:36:59   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-06-09 00:36:59   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:37:00   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:37:31   INFO [pages.HomePage] : Element is not present
-2021-06-09 00:37:31   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
-2021-06-09 00:38:02   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
+2021-06-09 00:37:31   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-06-09 00:38:02   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
 2021-06-09 00:38:07   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:38:09   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:38:09   INFO [pages.LoginPage] : 'valerinskaya997190990@gmail.com' was inputted in element 
 2021-06-09 00:38:09   INFO [pages.LoginPage] :  Element was click
-2021-06-09 00:38:27   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
+2021-06-09 00:38:27   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was started ---------
 2021-06-09 00:38:32   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:38:34   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:38:34   INFO [pages.LoginPage] : 'valerinskaya997190900@gmail.com' was inputted in element 
@@ -2131,62 +2131,150 @@ Session ID: 0706e56319865a6de5645f486c04cc34
 2021-06-09 00:38:37   INFO [pages.LoginPage] : '2' was selected in DropDown 
 2021-06-09 00:38:38   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:38:38   INFO [pages.HomePage] :  Element present 
-2021-06-09 00:38:39   INFO [SignInPhase.SignIn] : -----SignInWithValidCredentials was ended ---------
-2021-06-09 00:38:47   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was started ---------
+2021-06-09 00:38:39   INFO [signInPhase.SignIn] : -----SignInWithValidCredentials was ended ---------
+2021-06-09 00:38:47   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was started ---------
 2021-06-09 00:38:53   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:39:23  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Seacrh Field (tried for 15 second(s) with 500 milliseconds interval)
-2021-06-09 00:39:24   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
-2021-06-09 00:39:35   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was started ---------
+2021-06-09 00:39:24   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
+2021-06-09 00:39:35   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was started ---------
 2021-06-09 00:39:41   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:40:11  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Seacrh Field (tried for 15 second(s) with 500 milliseconds interval)
-2021-06-09 00:40:11   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
-2021-06-09 00:40:25   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was started ---------
+2021-06-09 00:40:11   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
+2021-06-09 00:40:25   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was started ---------
 2021-06-09 00:40:32   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:41:03  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Seacrh Field (tried for 15 second(s) with 500 milliseconds interval)
-2021-06-09 00:41:03   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
-2021-06-09 00:41:33   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-06-09 00:41:03   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
+2021-06-09 00:41:33   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
 2021-06-09 00:41:39   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:41:40   INFO [pages.DropDownMenu] :  Element was click
-2021-06-09 00:41:40   INFO [ElementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
-2021-06-09 00:42:08   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was started ---------
+2021-06-09 00:41:40   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
+2021-06-09 00:42:08   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was started ---------
 2021-06-09 00:42:14   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:42:44  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Seacrh Field (tried for 15 second(s) with 500 milliseconds interval)
-2021-06-09 00:42:44   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
-2021-06-09 00:43:15   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was started ---------
+2021-06-09 00:42:44   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
+2021-06-09 00:43:15   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was started ---------
 2021-06-09 00:43:24   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:43:24   INFO [pages.HomePage] : 'Blouse' was inputted in element 'Seacrh Field'
 2021-06-09 00:43:26   INFO [pages.HomePage] : 'Click On Seacrch Button' Element was click
 2021-06-09 00:43:26   INFO [pages.HomePage] :  Element present 'Check Clothes Existing'
-2021-06-09 00:43:26   INFO [SearchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
-2021-06-09 00:43:56   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-06-09 00:43:26   INFO [searchClothes.Search] : -----EnterandSeacrhClothes was ended ---------
+2021-06-09 00:43:56   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
 2021-06-09 00:44:02   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:44:03   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:44:04   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-06-09 00:44:04   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:44:05   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:44:36   INFO [pages.HomePage] : Element is not present
-2021-06-09 00:44:36   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
-2021-06-09 00:45:49   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-06-09 00:44:36   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-06-09 00:45:49   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
 2021-06-09 00:45:55   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:45:57   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:45:57   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-06-09 00:45:57   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:45:59   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:46:29   INFO [pages.HomePage] : Element is not present
-2021-06-09 00:46:29   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
-2021-06-09 00:47:22   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-06-09 00:46:29   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-06-09 00:47:22   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
 2021-06-09 00:47:28   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:47:30   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:47:30   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-06-09 00:47:30   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:47:32   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:47:32   INFO [pages.HomePage] :  Element present 
-2021-06-09 00:47:32   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
-2021-06-09 00:47:57   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-06-09 00:47:32   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-06-09 00:47:57   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
 2021-06-09 00:48:02   INFO [pages.LoginPage] : Login page was opened
 2021-06-09 00:48:05   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:48:05   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
 2021-06-09 00:48:05   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
 2021-06-09 00:48:07   INFO [pages.LoginPage] :  Element was click
 2021-06-09 00:48:07   INFO [pages.HomePage] :  Element present 
-2021-06-09 00:48:07   INFO [LogIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-06-09 00:48:07   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-27-09 12:46:15   INFO [ForgotPassword] : -----forgotyourpassword was started ---------
+2021-27-09 12:46:29   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 12:46:40   INFO [pages.LoginPage] :  Element was click
+2021-27-09 12:46:48   INFO [pages.LoginPage] :  Element was click
+2021-27-09 12:46:48   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
+2021-27-09 12:46:54   INFO [pages.LoginPage] :  Element was click
+2021-27-09 12:46:54   INFO [pages.LoginPage] :  Element present 
+2021-27-09 12:46:54   INFO [ForgotPassword] : -----forgotyourpassword was ended ---------
+2021-27-09 13:06:33   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-27-09 13:06:45   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 13:06:53   INFO [pages.DropDownMenu] :  Element was click
+2021-27-09 13:06:53   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
+2021-27-09 13:18:39   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-27-09 13:18:50   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 13:18:59   INFO [pages.DropDownMenu] :  Element was click
+2021-27-09 13:18:59   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
+2021-27-09 13:19:55   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-27-09 13:20:06   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 13:20:13   INFO [pages.DropDownMenu] :  Element was click
+2021-27-09 13:20:13   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
+2021-27-09 13:37:05   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was started ---------
+2021-27-09 13:37:15   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 13:37:20   INFO [pages.DropDownMenu] :  Element was click
+2021-27-09 13:37:20   INFO [pages.DropDownMenu] :  Element present 
+2021-27-09 13:37:20   INFO [elementFromDropDown.DropDown] : -----SelectElementFromDropDown was ended ---------
+2021-27-09 13:50:15   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-27-09 13:50:23   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 13:50:31   INFO [pages.LoginPage] :  Element was click
+2021-27-09 13:50:31   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
+2021-27-09 13:50:32   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
+2021-27-09 13:50:38   INFO [pages.LoginPage] :  Element was click
+2021-27-09 13:50:38   INFO [pages.HomePage] :  Element present 
+2021-27-09 13:50:39   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-27-09 13:53:18   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-27-09 13:53:22  ERROR [pages.LoginPage] : Сannot work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TJ23JI33', ip: '192.168.31.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\7272~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fc6001d1d896f6afb07eb7dd3b0f808
+2021-27-09 13:53:22   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------
+2021-27-09 14:07:57   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-27-09 14:08:08   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 14:08:16   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:08:16   INFO [pages.ContatUs] : '1' was selected in DropDown 
+2021-27-09 14:08:17   INFO [pages.ContatUs] : 'lera@gmail.com' was inputted in element 
+2021-27-09 14:08:17   INFO [pages.ContatUs] : 'test' was inputted in element 
+2021-27-09 14:08:17   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:08:17   INFO [pages.ContatUs] : 'test' was inputted in element 
+2021-27-09 14:08:24   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:08:24   INFO [pages.ContatUs] :  Element present 
+2021-27-09 14:08:25   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-27-09 14:20:47   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-27-09 14:20:59   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 14:21:07   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:21:07   INFO [pages.ContatUs] : '1' was selected in DropDown 
+2021-27-09 14:21:07   INFO [pages.ContatUs] : 'lera@gmail.com' was inputted in element 
+2021-27-09 14:21:07   INFO [pages.ContatUs] : 'test' was inputted in element 
+2021-27-09 14:21:08   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:21:08   INFO [pages.ContatUs] : 'test' was inputted in element 
+2021-27-09 14:21:13   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:21:13   INFO [pages.ContatUs] :  Element present 
+2021-27-09 14:21:14   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-27-09 14:22:52   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-27-09 14:22:55   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 14:23:25  ERROR [pages.ContatUs] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Contact To Us (tried for 5 second(s) with 500 milliseconds interval)
+2021-27-09 14:23:25   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-27-09 14:25:15   INFO [contactUS.CustomeService] : -----UploadTest was started ---------
+2021-27-09 14:25:27   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 14:25:33   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:25:34   INFO [pages.ContatUs] : '1' was selected in DropDown 
+2021-27-09 14:25:34   INFO [pages.ContatUs] : 'lera@gmail.com' was inputted in element 
+2021-27-09 14:25:34   INFO [pages.ContatUs] : 'test' was inputted in element 
+2021-27-09 14:25:34   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:25:34   INFO [pages.ContatUs] : 'test' was inputted in element 
+2021-27-09 14:25:39   INFO [pages.ContatUs] :  Element was click
+2021-27-09 14:25:39   INFO [pages.ContatUs] :  Element present 
+2021-27-09 14:25:41   INFO [contactUS.CustomeService] : -----UploadTest was ended ---------
+2021-27-09 14:40:59   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was started ---------
+2021-27-09 14:41:10   INFO [pages.LoginPage] : Login page was opened
+2021-27-09 14:41:19   INFO [pages.LoginPage] :  Element was click
+2021-27-09 14:41:19   INFO [pages.LoginPage] : 'valerinskaya9972@gmail.com' was inputted in element 
+2021-27-09 14:41:19   INFO [pages.LoginPage] : '.Cp9P4QtS5VatBk' was inputted in element 
+2021-27-09 14:41:29   INFO [pages.LoginPage] :  Element was click
+2021-27-09 14:41:29   INFO [pages.HomePage] :  Element present 'Is User Name Present'
+2021-27-09 14:41:29   INFO [logIn.LogInWithExistingUser] : -----ExistingUser was ended ---------

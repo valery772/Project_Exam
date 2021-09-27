@@ -87,15 +87,6 @@ public abstract class ParentPage {
         }
     }
 
-
-    public void usersPressesKeyTabTime(int numberOfTimes) {
-        Actions actions = new Actions(webDriver);
-        for (int i = 0; i < numberOfTimes; i++) {
-            actions.sendKeys(Keys.TAB).build().perform();
-        }
-
-    }
-
     private void writeErrorAndStopTest(Exception e) {
         logger.error("Can not work with element " + e);
         Assert.fail("Can not work with element " + e);

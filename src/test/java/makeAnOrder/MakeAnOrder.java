@@ -1,4 +1,4 @@
-package MakeAnOrder;
+package makeAnOrder;
 
 import baseTest.BaseTest;
 import libs.TestData;
@@ -19,7 +19,7 @@ public class MakeAnOrder extends BaseTest {
         homePage.clickOnCheckBox();
         homePage.clickShipping();
         homePage.confirmOrder();
-        Assert.assertTrue("ERROR!!!",homePage.checkSucessfullyAddedOrder());
+        Assert.assertTrue("Order placement failed!",homePage.checkSucessfullyAddedOrder());
 
     }
 }

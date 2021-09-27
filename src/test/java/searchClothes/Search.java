@@ -1,4 +1,4 @@
-package SearchClothes;
+package searchClothes;
 
 import baseTest.BaseTest;
 import org.junit.Assert;

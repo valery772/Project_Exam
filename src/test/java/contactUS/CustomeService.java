@@ -1,10 +1,11 @@
-package other;
+package contactUS;
 
 import baseTest.BaseTest;
+import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 
-public class UploadFile extends BaseTest {
+public class CustomeService extends BaseTest {
     WebDriver webDriver;
 
     @Test
@@ -18,5 +19,6 @@ public class UploadFile extends BaseTest {
         contacsUs.clickOnFileUpload();
         contacsUs.enterMessageText("test");
         contacsUs.clickOnSendInformation();
+        Assert.assertTrue("Message wasn't sent to support team",contacsUs.wasMessageSent());
     }
 }

@@ -1,4 +1,4 @@
-package SignInPhase;
+package signInPhase;
 
 import baseTest.BaseTest;
 import org.junit.Test;
@@ -15,7 +15,7 @@ public class SignIn extends BaseTest {
                 ,"1234556789","tyk tyk");
         loginPage.selectValueinDDSelectValue("2");
         loginPage.clickOnRegisterButton();
-        homePage.signOutButton();
+        homePage.issignOutButtonVisible();
 
 
 
